@@ -1,7 +1,7 @@
-## clock-App
+## Clock-App
 A course project about a costumized multifunction Android clock application
 
-## view
+## View
 ![view](view/view.jpg)
 
 ## Platform
